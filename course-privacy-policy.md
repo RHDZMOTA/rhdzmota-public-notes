@@ -15,7 +15,7 @@ Topics:
 
 ### What data is collected? 
 
-We only collect information relevant to the course's academic purposes and with the aim of providing a training dataset to the students.
+We only collect information relevant to the course's educational purposes.
 This might include, but is not limited to, non-sensitive personal information, socio-demographic data, course notes, and credit scores from different providers.
 
 In addition, some lecture/course might also be recorded. These recordings will be made available exclusively to the 
