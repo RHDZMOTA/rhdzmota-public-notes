@@ -10,10 +10,9 @@ Let’s be honest about this. Python is great, but managing multiple python vers
 
 [xkcd]: https://xkcd.com/1987/
 
-**Disclaimer**: you should probably know about [Python Poetry][python-poetry] as a complementary tool (read more [here][more-poetry]). Poetry is great if you are actively developing python tooling and packages. I will update this post with installation/usage instructions, ~eventually. Until then, let's keep it simple. 
-
-[python-poetry]: https://python-poetry.org/
-[more-poetry]: https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html
+{{% callout note %}}
+You should probably know about [Python Poetry](https://python-poetry.org/) as a complementary tool (read more [here](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)). Poetry is great if you are actively developing python tooling and packages. I will update this post with installation/usage instructions, ~eventually. Until then, let's keep it simple.
+{{% /callout %}}
 
 
 ## Prerequisites
@@ -150,7 +149,9 @@ $ python --version
 
 Congratulations! You are now ready to go.
 
-**A note of caution**: When working with git, do not add/commit the `venv` folder into the repository. You can make git to ignore this directory by creating a `.gitignore` file with a single line containing: `venv`. 
+{{% callout warning %}}
+When working with git, do not add/commit the `venv` folder into the repository. You can make git to ignore this directory by creating a `.gitignore` file with a single line containing: `venv`. 
+{{% /callout %}}
 
 ---
 
