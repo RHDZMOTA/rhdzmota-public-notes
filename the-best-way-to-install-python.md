@@ -11,9 +11,10 @@ Let’s be honest about this. Python is great, but managing multiple python vers
 [xkcd]: https://xkcd.com/1987/
 
 
-:::info
-You should probably know about [Python Poetry](https://python-poetry.org/) as a complementary tool (read more [here](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)). Poetry is great if you are actively developing python tooling and packages. I will update this post with installation/usage instructions, ~eventually. Until then, let's keep it simple.
-:::
+<div class="alert alert-info" role="alert">
+  You should probably know about <a href="[url](https://python-poetry.org/)">Python Poetry</a> as a complementary tool (read more <a href="[url](https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html)">here</a>). Poetry is great if you are actively developing python tooling and packages. I will update this post with installation/usage instructions, ~eventually. Until then, let's keep it simple.
+</div>
+
 
 ## Prerequisites
 
@@ -149,9 +150,11 @@ $ python --version
 
 Congratulations! You are now ready to go.
 
-{{% callout warning %}}
-When working with git, do not add/commit the `venv` folder into the repository. You can make git to ignore this directory by creating a `.gitignore` file with a single line containing: `venv`. 
-{{% /callout %}}
+<div class="alert alert-warning" role="alert">
+When working with git, do not add/commit the <strong>venv</strong> folder into the repository. You can make git to ignore this directory by creating a <strong>.gitignore</strong> file with a single line containing: <strong>venv</strong>. 
+    
+Example of a more complex python gitignore file <a href="https://github.com/github/gitignore/blob/main/Python.gitignore">here</a>.
+</div>
 
 ---
 
