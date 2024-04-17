@@ -35,7 +35,13 @@ A data engineer takes the fundamentals of a software engineer and specializes th
 
 For a complementary definition of a data engineer in relation with other data roles, I highly recommend taking a look into the "Data Roles" post by Wizeline (reference [here](https://www.wizeline.com/data-roles-friends-but-not-the-same/)).
 
-[![image](https://hackmd.io/_uploads/rkR1vR3xC.png)](https://www.wizeline.com/data-roles-friends-but-not-the-same/)
+[![](https://hackmd.io/_uploads/rkR1vR3xC.png)](https://www.wizeline.com/data-roles-friends-but-not-the-same/)
+
+<img
+src="/img/reference-data-roles-venn-diagram.png"
+alt="Data Roles by Wizeline"
+width="620" />
+
 
 ## Career Path
 
@@ -43,8 +49,13 @@ The data engineers usually follow a traditional software engineer career path. W
 * **Tech-oriented**: Tech lead, principal engineer, etc.
 * **People-oriented**: Manager, director, etc.
 
+![](https://hackmd.io/_uploads/HkDR7ChgR.png)
 
-![image](https://hackmd.io/_uploads/HkDR7ChgR.png)
+<img
+src="/img/standard-career-path-data-engineer.png"
+alt="Standard Carrer Path (Own)"
+width="620" />
+
 
 
 ## Proeficiency Assessment
